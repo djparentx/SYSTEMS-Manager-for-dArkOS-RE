@@ -1,6 +1,6 @@
 # SYSTEMS Manager (R36S - dArkOSRE)
 
-by djparent
+v1.1 by djparent
 
 A Bash-based EmulationStation utility for the R36S that dynamically manages system ROM paths between /roms/ and /roms2/, keeping your system list clean and accurate based on where your games are stored.
 
@@ -16,6 +16,7 @@ It ensures only systems with actual ROMs appear, improving both organization and
 
 ## Features
 
+- B button now functions as back button
 - Automatic ROM detection and system migration  
 - Manual system selection via checklist UI  
 - Smart empty-folder detection with automatic rollback  
