@@ -692,7 +692,7 @@ CleanupKeys() {
 # Gamepad Setup
 # -------------------------------------------------------
 export SDL_GAMECONTROLLERCONFIG_FILE="/opt/inttools/gamecontrollerdb.txt"
-sudo chmod 666 /dev/uinput
+chmod 666 /dev/uinput
 cp /opt/inttools/keys.gptk "$TMP_KEYS"
 sed -i 's/^x = .*/x = space/' "$TMP_KEYS"
 sed -i 's/^y = .*/y = space/' "$TMP_KEYS"
@@ -712,6 +712,6 @@ fi
 
 printf "\033[H\033[2J" > "$CURR_TTY"
 dialog --clear
-trap 'StopGPTKeyb; CleanupKeys' ExitMenu EXIT
+trap 'StopGPTKeyb; CleanupKeys; ExitMenu' EXIT
 
 MainMenu
