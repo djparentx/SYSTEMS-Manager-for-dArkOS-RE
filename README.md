@@ -10,7 +10,7 @@ A Bash-based EmulationStation utility for the R36S that dynamically manages syst
 
 SYSTEMS Manager is designed for dual-storage setups on the R36S, allowing you to automatically or manually switch EmulationStation systems between primary and secondary ROM locations.
 
-It ensures only systems with actual ROMs appear, improving both organization and performance.
+It ensures only systems with actual ROMs appear, improving both organization and performance. SYSTEMS Manager requires that Switch to SD2 from the Advanced folder has been run first.
 
 ---
 
