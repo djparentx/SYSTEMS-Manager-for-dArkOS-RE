@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O8Z424G15Y)
+
 # SYSTEMS Manager (R36S - dArkOSRE)
 
 v1.1 by djparent
