@@ -1,10 +1,10 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O8Z424G15Y)
-
-# SYSTEMS Manager (R36S - dArkOSRE)
+# SYSTEMS Manager (R36S - dArkOSen)
 
 v1.1 by djparent
 
 A Bash-based EmulationStation utility for the R36S that dynamically manages system ROM paths between /roms/ and /roms2/, keeping your system list clean and accurate based on where your games are stored.
+
+[<img width="300" height="150" alt="ChatGPT Image Aug 11, 2026, 10_52_38 AM" src="https://github.com/user-attachments/assets/8680b713-26ad-4d3a-90ea-da1b27a0fe93" />](https://ko-fi.com/O8Z424G15Y)
 
 ---
 
